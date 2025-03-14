@@ -1,0 +1,1 @@
+import{_ as e,c as o,a as s,o as n}from"./index-CR_20Cy5.js";const a={};function r(c,t,l,p,_,d){return n(),o("div",null,t[0]||(t[0]=[s("h1",null,"Contact Us!",-1)]))}const i=e(a,[["render",r]]);export{i as default};
